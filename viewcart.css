@@ -1,0 +1,18 @@
+body
+{
+margin: 0;
+    padding: 0;
+    background: #efefef;
+    font-size: 16px;
+    color: #000;
+    font-family: sans-serif;
+    font-weight: 300;
+}
+h1
+{
+	font-size: 26px;
+	font-family: sans-serif;
+	color: #000;
+    font-weight: 600;
+
+}
